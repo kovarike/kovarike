@@ -62,7 +62,7 @@ const config = {
       },
     ],
   },
-  // output: 'export',
+  output: 'export',
   async redirects() {
     return [
       {
