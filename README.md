@@ -2,7 +2,7 @@
  
 Danilo is currently studying computer engineering and has been developing in the C language, react, typeScript, nest.js, node.js and postgres. 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 In his free time, Danilo loves listening to good music, watching movies or TV series and exploring new places. Danilo's main focus and objective has been the development of applications in JavaScript, Node.js and TypeScript integrated with react, C and Cloud services
 ## 💻 Technologies & Tools
@@ -25,10 +25,11 @@ In his free time, Danilo loves listening to good music, watching movies or TV se
 
 
 ## ⭐ GitHub Stats
-
+<!---
 ![danilo's Stats](https://github-readme-stats.vercel.app/api?username=kovarike&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 ![danilo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kovarike&theme=radical&hide_border=true)
+--->
 
 ![danilo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kovarike&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
