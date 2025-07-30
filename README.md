@@ -25,8 +25,8 @@ In his free time, Danilo loves listening to good music, watching movies or TV se
 
 
 ## ⭐ GitHub Stats
-![danilo's Stats](https://github-readme-stats.vercel.app/api?username=kovarike&theme=radical&show_icons=true&hide_border=true&count_private=true)
 <!---
+![danilo's Stats](https://github-readme-stats.vercel.app/api?username=kovarike&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 ![danilo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kovarike&theme=radical&hide_border=true)
 --->
